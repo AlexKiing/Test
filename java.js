@@ -104,3 +104,6 @@ function retrievePosition(position) {
 
 navigator.geolocation.getCurrentPosition(retrievePosition);
 
+
+
+search("Porto");
