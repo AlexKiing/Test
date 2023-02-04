@@ -3,34 +3,27 @@ html{
   background-image: url(IMG_1375.JPEG);
 }
 body {
-  font-family: arial, sans-serif;
+  font-family:monospace;
   background-image: url(IMG_1375.JPEG);
 }
 
 h1 {
-  color: rgb(0, 0, 0);
+
   list-style: none;
-  font-family:monospace
-  font-size: 16px;
-  font-weight: 16;
+ 
 }
 
 ul {
   margin: 0;
   padding: 0;
-  color: rgb(0, 0, 0);
+
   list-style: none;
-  font-family:monospace
-  font-size: 16px;
-  font-weight: 16;
+ 
 }
 
 li {
   color: rgb(0, 0, 0);
   list-style: none;
-  font-family:monospace
-  font-size: 16px;
-  font-weight: 16;
 }
 
 li:first-letter {
