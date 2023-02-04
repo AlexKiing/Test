@@ -34,11 +34,11 @@ li:first-letter {
 .weather-app-wrapper {
   max-width: 600px;
   margin: 30px auto;
-  box-shadow: #000;
 }
 
 .weather-app {
   border: 1.5vh solid black;
+  box-shadow: #000;
   max-width: 800px;
   border-radius: 2vh;
   margin: auto;
