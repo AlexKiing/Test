@@ -38,7 +38,6 @@ li:first-letter {
 
 .weather-app {
   border: 1.5vh solid black;
-  box-shadow: #000;
   max-width: 800px;
   border-radius: 2vh;
   margin: auto;
