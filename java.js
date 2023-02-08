@@ -33,7 +33,7 @@ function displayForecast(response) {
     forecastHTML =
       forecastHTML +
       `
-      <div class="col-2">
+      <div class="row">
         <div class="weather-forecast-date">${day}</div>
         <img
           src="http://openweathermap.org/img/wn/50d@2x.png"
